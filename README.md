@@ -19,3 +19,7 @@ data structures and algorithms, poetry, or things that peak genuine interest.
 * Contact Information: [LoughFSMx200498@gmail.com]
 
 ---
+
+## General Statistics
+
+---
