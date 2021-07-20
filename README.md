@@ -17,3 +17,5 @@ data structures and algorithms, poetry, or things that peak genuine interest.
 
 * Founder of: [https://github.com/Synterra-Technologies]
 * Contact Information: [LoughFSMx200498@gmail.com]
+
+---
