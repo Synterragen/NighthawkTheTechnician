@@ -1,5 +1,6 @@
-## Dear colleague's,
+## Dear colleague's
 
-##### Informative details;
+##### Informative details about me:
 
-* Contact Information: [example.com]
+* Contact Information: [LoughFSMx200498@gmail.com]
+* 
