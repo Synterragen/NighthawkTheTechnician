@@ -6,7 +6,7 @@ module.exports = (author, about, frequency) => {
     about: [
     "Computer Science",
     "CyberSecurity",
-    "Anything that sates curiosity really"
+    "Complex Mathematics"
     ],
     frequency: "Varying"
 }
